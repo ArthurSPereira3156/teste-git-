@@ -1,2 +1,3 @@
 Public Class ClasseA{
+private string nome; 
 }

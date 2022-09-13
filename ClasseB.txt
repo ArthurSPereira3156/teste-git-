@@ -1,2 +1,3 @@
 Public Class ClasseB {
+private string idade;
 }
